@@ -1,1 +1,2 @@
-# manipulateur-DOM
+# Mini projet Manipulateur DOM
+
